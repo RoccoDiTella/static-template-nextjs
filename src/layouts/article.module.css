@@ -1,9 +1,9 @@
 .spinner {
-  @apply max-w-max mx-auto px-10 flex justify-center pt-32;
+  @apply max-w-prose mx-auto px-10 flex justify-center pt-32;
 }
 
 .article {
-  @apply mx-auto px-10;
+  @apply max-w-max mx-auto px-10;
 }
 
 .footer {
